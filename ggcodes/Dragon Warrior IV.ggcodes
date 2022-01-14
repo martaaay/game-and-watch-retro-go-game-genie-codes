@@ -1,0 +1,109 @@
+ATVATGSL, Take no damage from monsters and lose no MP--all party members
+POSOAPZU, Start with 25 gold
+GVSOAPZL, Start with 100 gold
+NNSOAPZU, Start with 255 gold
+AIXOZAYS, Start with lots 'o gold (same as code 23)
+YEEXYXLO, Start with 15 hit points
+GVEXYXLP, Start with 100 hit points
+NNEXYXLO, Start with 255 hit points
+LNKPLONY, Start with final key
+TEKPLONN, Start with metal babble sword
+LOKPLONY, Start with multi-edge sword
+PEKPLONN, Start with thorn whip
+AKKPLONY, Start with shield of strength
+LKKPLONY, Start with dragon shield
+LNKPLONY+GEKPGONY, Start with final key and chain sickle
+TEKPLONN+LEKPGONN, Start with metal babble sword and boomerang
+LOKPLONY+PSKPGONN, Start with multi-edge sword and wizard's ring
+PEKPLONN+ZOKPGONY, Start with thorn whip and demonhammer
+AKKPLONY+ASKPGONY, Start with shield of strength and meteorite armband
+LKKPLONY+IEKPGONN, Start with dragon shield and iron fan
+ZUSOPPGT, Start with 50 gold
+NNSOPPGV, Start with 255 gold
+AIXOZAYS, Start with lots of gold (same as code 5)
+GVOZAZAP, Alena starts with 100 hit points
+NNOZAZAO, Alena starts with 255 hit points
+LNKOZONY, Start with final key
+ZOKOZONN, Start with fire claw
+LOKOZONY, Start with multi-edge sword
+PEKOZONN, Start with thorn whip
+LNKOZONY+ZOKOLONN, Start with final key and fire claw
+LEKOLONN, Start with boomerang
+LOKOZONY+PSKOLONN, Start with multi-edge sword and wizard's ring
+PEKOZONN+ZOKOLONY, Start with thorn whip and demon hammer
+AKKOZONY+ASKOLONY, Start with shield of strength and meteorite arm band
+LKKOZONY+IEKOLONN, Start with dragon shield and iron fan
+LNUPLONY, Start with final key
+TOUPLONN, Start with magma staff
+LOUPLONY, Start with multi-edge sword
+PEUPLONN, Start with thorn whip
+AKUPLONY, Start with shield of strength
+LKUPLONY, Start with dragon shield
+LNUPLONY+TOUPGONN, Start with final key and magma staff
+LEUPGONN, Start with boomerang
+LOUPLONY+PSUPGONN, Start with multi-edge sword and wizard's ring
+PEUPLONN+ZOUPGONY, Start with thorn whip and demon hammer
+AKUPLONY+ASUPGONY, Start with shield of strength and meteorite arm band
+LKUPLONY+IEUPGONN, Start with dragon shield and iron fan
+LNOOLONY, Start with final key
+TEOOLONN, Start with metal babble sword
+LOOOLONY, Start with multi-edge sword
+PEOOLONN, Start with thorn whip
+AKOOLONY, Start with shield of strength
+LKOOLONY, Start with dragon shield
+LNOOLONY+GEOOGONY, Start with final key and chain sickle
+TEOOLONN+LEOOGONN, Start with metal babble sword and boomerang
+LOOOLONY+PSOOGONN, Start with multi-edge sword and wizard's ring
+PEOOLONN+ZOOOGONY, Start with thorn whip and demon hammer
+AKOOLONY+ASOOGONY, Start with shield of strength and meteorite arm band
+LKOOLONY+IEOOGONN, Start with dragon shield and iron fan
+AOEXTZGP, Start with 16 hit points
+GVEXTZGP, Start with 100 hit points
+NNEXTZGO, Start with 255 hit points
+GVSOZPAA, Start with 100 gold
+NNSOZPAE, Start with 255 gold
+UNUOLONY, Start with final key
+LEUOLONN, Start with metal babble sword (same as code 68)
+TOUOLONY, Start with multi-edge sword
+LEUOLONN, Start with thorn whip (same as code 66)
+PKUOLONY, Start with shield of strength
+AKUOLONY, Start with dragon shield
+LNUOLONY+GEUOGONY, Start with final key and chain sickle
+TEUOLONN+LEUOGONN, Start with metal babble sword and boomerang
+LOUOLONY+PSUOGONN, Start with multi-edge sword and wizard's ring
+PEUOLONN+ZOUOGONY, Start with thorn whip and demon hammer
+AKUOLONY+ASUOGONY, Start with shield of strength and meteorite arm band
+LKUOLONY+IEUOGONN, Start with dragon shield and iron fan
+GVEXLZZP, Nara starts with 100 hit points
+GVEXGZAP, Mara starts with 100 hit points
+NNEXLZZO, Nara starts with 255 hit points
+NNEXGZAO, Mara starts with 255 hit points
+LNXPLONY, Start with final key
+TEXPLONN, Start with metal babble sword
+LOXPLONY, Start with multi-edge sword
+PEXPLONN, Start with thorn whip
+AKXPLONY, Start with shield of strength
+LKXPLONY, Start with dragon shield
+LNXPLONY+GEXPGONY, Start with final key and chain sickle
+TEXPLONN+LEXPGONN, Start with metal babble sword and boomerang
+LOXPLONY+PSXPGONN, Start with multi-edge sword and wizard's ring
+PEXPLONN+ZOXPGONY, Start with thorn whip and demon hammer
+AKXPLONY+ASXPGONY, Start with shield of strength and meteorite arm band
+LKXPLONY+IEXPGONN, Start with dragon shield and iron fan
+LNXOPONY, Start with final key
+TOXOPONN, Start with magma staff
+LOXOPONY, Start with multi-edge sword
+PEXOPONN, Start with thorn whip
+AKXOPONY, Start with shield of strength
+LKXOPONY, Start with dragon shield
+LNXOPONY+GEXOZONY, Start with final key and chain sickle
+TEXOPONN+LEXOZONN, Start with metal babble sword and boomerang
+LOXOPONY+PSXOZONN, Start with multi-edge sword and wizard's ring
+PEXOPONN+ZOXOZONY, Start with thorn whip and demon hammer
+AKXOPONY+ASXOZONY, Start with shield of strength and meteorite arm band
+LKXOPONY+IEXOZONN, Start with dragon shield and iron fan
+LNOPIONY, Start with final key
+PXOPIONY, Start with zenithian sword
+GKOPIONY, Start with zenithian shield
+YUOPIONY, Start with zenithian armor
+LKOPIONN, Start with zenithian helmet

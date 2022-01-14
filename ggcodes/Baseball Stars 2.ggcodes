@@ -1,0 +1,25 @@
+SZSSZSVV, Strikes do not count
+SXSITKVV, Balls do not count
+PAVIPILA, One strike for an out
+ZAVIPILA, Two strikes for an out
+GAVIPILA, Four strikes for an out
+IAVIPILA, Five strikes for an out (only 3 show on screen)
+PESSIGGA, One ball for a walk
+ZESSIGGA, Two balls for a walk
+LESSIGGA, Three balls for a walk
+IESSIGGA, Five balls for a walk (only 3 show on screen)
+TESSIGGA, Six balls for a walk (only 3 show on screen)
+PANILTLA, One out per side instead of 3
+ZANILTLA, Two outs per side
+GANILTLA, Four outs per side
+PAOAILLA, One out per side instead of 3
+ZAOAILLA, Two outs per side
+GAOAILLA, Four outs per side
+PEXPVGLZ, Game ends after 1 inning
+LEXPVGLZ, Game ends after 2 innings
+TEXPVGLZ, Game ends after 3 innings
+AEXPVGLX, Game ends after 4 innings
+ZEXPVGLX, Game ends after 5 innings
+GEXPVGLX, Game ends after 6 innings
+TEXPVGLX, Game ends after 7 innings
+AOXPVGLZ, Game ends after 8 innings
